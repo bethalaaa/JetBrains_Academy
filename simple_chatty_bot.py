@@ -28,13 +28,12 @@ def count():
         curr = curr + 1
 
 def test():
-    def test():
-        print("Let's test your Rup knowledge.")
-        print("What is Rup not able to do?")
-        print("1. Hack")
-        print("2. Game")
-        print("3. Walk to the kitchen on his own")
-        print("4. Sleep")
+    print("Let's test your Rup knowledge.")
+    print("What is Rup not able to do?")
+    print("1. Hack")
+    print("2. Game")
+    print("3. Walk to the kitchen on his own")
+    print("4. Sleep")
     
     answer = int(input())
     
